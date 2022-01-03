@@ -1,9 +1,9 @@
-# aws-ecr-ecs-lb-flask 🐳
+# aws-ecr-ecs-flask-viewpics 🐳
 
-![Stars](https://img.shields.io/github/stars/tquangdo/aws-ecr-ecs-lb-flask?color=f05340)
-![Issues](https://img.shields.io/github/issues/tquangdo/aws-ecr-ecs-lb-flask?color=f05340)
-![Forks](https://img.shields.io/github/forks/tquangdo/aws-ecr-ecs-lb-flask?color=f05340)
-[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-ecr-ecs-lb-flask/issues/new)
+![Stars](https://img.shields.io/github/stars/tquangdo/aws-ecr-ecs-flask-viewpics?color=f05340)
+![Issues](https://img.shields.io/github/issues/tquangdo/aws-ecr-ecs-flask-viewpics?color=f05340)
+![Forks](https://img.shields.io/github/forks/tquangdo/aws-ecr-ecs-flask-viewpics?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-ecr-ecs-flask-viewpics/issues/new)
 
 ![overall](screenshots/overall.png)
 
@@ -60,7 +60,3 @@ docker push ACCOUNTIDHERE!!!.dkr.ecr.us-east-1.amazonaws.com/ecr-test:latest
 ### Security group=`default`
 + add `Inbound rules`: TCP + 8888 + 0.0.0.0/0
 + access `http://ec2-44-201-20-5.compute-1.amazonaws.com:8888/` on browser will see random cat pictures
-
-
-
-
