@@ -12,7 +12,7 @@
 2. [github](https://github.com/prakhar1989/docker-curriculum)
 
 ## deploy local
-+ note: `Dockerfile > FROM python:3.9` -> will ERR if python ver > 3.9!!!
++ note: `Dockerfile > FROM python:3.9` -> ⚠️WARNING⚠️ **will ERR if python ver later than 3.9!!!** ⚠️WARNING⚠️
 ```shell
 docker build -t test .
 docker run -d --publish 8888:5000 test
