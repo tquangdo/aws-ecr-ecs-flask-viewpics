@@ -5,7 +5,7 @@
 ![Forks](https://img.shields.io/github/forks/tquangdo/aws-ecr-ecs-flask-viewpics?color=f05340)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-ecr-ecs-flask-viewpics/issues/new)
 
-![overall](screenshots/overall.png)
+![detail](screenshots/detail.png)
 
 ## reference
 1. [youtube](https://www.youtube.com/playlist?list=PL9nWRykSBSFihWbXBDX57EdpOmZxpUaVR)
